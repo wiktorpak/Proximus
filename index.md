@@ -14,9 +14,9 @@
     </a>
     <hr>
     <h4> Robimy meble i kuchnie na wymiar, przykłady co zrobiliśmy: </h4>
-    <img src="biurko.jpg" height="300" width="350" alt="Buy a game" title="Młoddzieżowe biurko">
-    <img src="kwiatek.jpg" height="300" width="300" alt="Buy a game" title="świecący kwiatek">
-    <img src="szafa.jpg" height="300" width="300" alt="Buy a game" title="dwu kolorowa szafa">
+    <img src="biurko.jpg" height="300" width="350" alt="Młoddzieżowe biurko" title="Młoddzieżowe biurko">
+    <img src="kwiatek.jpg" height="300" width="300" alt="świecący kwiatek" title="świecący kwiatek">
+    <img src="szafa.jpg" height="300" width="300" alt="dwu kolorowa szafa" title="dwu kolorowa szafa">
 
     <h4>WSZYSTKO JEST ROBIONE WŁASNORĘCZNIE</h4>
     <h4>WSZYSTKICH ZACIEKAWIONYCH PROSIMY O KONTAKT NA FACEBOOKU.</h4>
